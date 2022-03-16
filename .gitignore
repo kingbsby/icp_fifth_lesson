@@ -9,7 +9,9 @@
 
 # dfx temporary files
 .dfx/
+.canister_ids.json
 
 # frontend code
 node_modules/
 dist/
+src/declarations
